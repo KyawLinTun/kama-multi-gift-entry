@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>multiGiftEntry</name>
+   <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d275effc-0a3c-4106-ab63-886f487a4e11</testCaseGuid>
+   <testCaseGuid>95cf9517-10bf-4fa0-b262-3b3522614370</testCaseGuid>
 </TestCaseEntity>
